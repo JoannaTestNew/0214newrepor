@@ -3,6 +3,7 @@
     public class Class1
     {
         /// <summary>
+        /// add a method that uses a feature from C# 14.0, such as lambda expressions with inferred return types
         /// 
     }
 }
